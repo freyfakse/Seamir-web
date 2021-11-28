@@ -1,0 +1,41 @@
+C:\Users\jonas\source\repos\Seamir web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jonas\source\repos\Seamir web\bin\Debug\net5.0\appsettings.json
+C:\Users\jonas\source\repos\Seamir web\bin\Debug\net5.0\Seamir web.exe
+C:\Users\jonas\source\repos\Seamir web\bin\Debug\net5.0\Seamir web.deps.json
+C:\Users\jonas\source\repos\Seamir web\bin\Debug\net5.0\Seamir web.runtimeconfig.json
+C:\Users\jonas\source\repos\Seamir web\bin\Debug\net5.0\Seamir web.runtimeconfig.dev.json
+C:\Users\jonas\source\repos\Seamir web\bin\Debug\net5.0\Seamir web.dll
+C:\Users\jonas\source\repos\Seamir web\bin\Debug\net5.0\ref\Seamir web.dll
+C:\Users\jonas\source\repos\Seamir web\bin\Debug\net5.0\Seamir web.pdb
+C:\Users\jonas\source\repos\Seamir web\bin\Debug\net5.0\Seamir web.Views.dll
+C:\Users\jonas\source\repos\Seamir web\bin\Debug\net5.0\Seamir web.Views.pdb
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.csproj.AssemblyReference.cache
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.AssemblyInfoInputs.cache
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.AssemblyInfo.cs
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.RazorAssemblyInfo.cache
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.RazorAssemblyInfo.cs
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\staticwebassets\Seamir web.StaticWebAssets.Manifest.cache
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\staticwebassets\Seamir web.StaticWebAssets.xml
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\scopedcss\bundle\Seamir web.styles.css
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.TagHelpers.input.cache
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.TagHelpers.output.cache
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.RazorCoreGenerate.cache
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.RazorTargetAssemblyInfo.cache
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.RazorTargetAssemblyInfo.cs
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.Views.pdb
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.dll
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\ref\Seamir web.dll
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.pdb
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.genruntimeconfig.cache
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Seamir web.csproj.CopyComplete
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Razor\Views\Home\EandM.cshtml.g.cs
+C:\Users\jonas\source\repos\Seamir web\obj\Debug\net5.0\Razor\Views\Home\Soufralis.cshtml.g.cs
